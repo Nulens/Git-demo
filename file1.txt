@@ -1,14 +1,7 @@
 Dees is mijn eerste bestandje :P
-
-
 Kobe is mijn helper want ik ben niet zo goed mee.
-
-
 Kobe check
-<<<<<<< HEAD
 Vincent check is hier geweest!
-=======
 Vincent check
-
 nu zou alles moete werken eh
->>>>>>> 54ebabf6eeb1f2289a17e61f44a08414c9c2f0b4
+
